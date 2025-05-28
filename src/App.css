@@ -1,0 +1,11 @@
+.main-content {
+    display: flex;
+}
+.sidebar {
+    width: 25%;
+    background: black;
+    height: 98vh;
+}
+.page-content {
+    width: 75%;
+}
