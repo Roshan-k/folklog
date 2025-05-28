@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/folklog/static/css/main.5a07872e.css",
-    "main.js": "/folklog/static/js/main.9dff9173.js",
+    "main.js": "/folklog/static/js/main.f5904aa5.js",
     "static/js/453.8b723ec5.chunk.js": "/folklog/static/js/453.8b723ec5.chunk.js",
     "static/media/logo.svg": "/folklog/static/media/logo.92a2d616eaf2398f5874e8fbeb4cea9e.svg",
     "static/media/building.svg": "/folklog/static/media/building.7865e6507ba843cdaf7cdd05c37e8fb4.svg",
@@ -15,11 +15,11 @@
     "static/media/clock.svg": "/folklog/static/media/clock.d8426eb11ebeb08d582fa927cbb7edc9.svg",
     "static/media/down-arro.svg": "/folklog/static/media/down-arro.9546ad042a5a7f5d466ab6cee8e2bc04.svg",
     "main.5a07872e.css.map": "/folklog/static/css/main.5a07872e.css.map",
-    "main.9dff9173.js.map": "/folklog/static/js/main.9dff9173.js.map",
+    "main.f5904aa5.js.map": "/folklog/static/js/main.f5904aa5.js.map",
     "453.8b723ec5.chunk.js.map": "/folklog/static/js/453.8b723ec5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a07872e.css",
-    "static/js/main.9dff9173.js"
+    "static/js/main.f5904aa5.js"
   ]
 }
