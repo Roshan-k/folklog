@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Roshan-k/folklog/static/css/main.5a07872e.css",
+    "main.js": "/Roshan-k/folklog/static/js/main.942aaa41.js",
+    "static/js/453.8b723ec5.chunk.js": "/Roshan-k/folklog/static/js/453.8b723ec5.chunk.js",
+    "static/media/logo.svg": "/Roshan-k/folklog/static/media/logo.92a2d616eaf2398f5874e8fbeb4cea9e.svg",
+    "static/media/building.svg": "/Roshan-k/folklog/static/media/building.7865e6507ba843cdaf7cdd05c37e8fb4.svg",
+    "static/media/house.svg": "/Roshan-k/folklog/static/media/house.73ae4676f01ae43813eee09352cdaeca.svg",
+    "static/media/bell.svg": "/Roshan-k/folklog/static/media/bell.a06e42a807ce36956ef7c0581689c29a.svg",
+    "static/media/calendar.svg": "/Roshan-k/folklog/static/media/calendar.feddc2b24e1c3273a424a43eaab3098b.svg",
+    "index.html": "/Roshan-k/folklog/index.html",
+    "static/media/calendarX.svg": "/Roshan-k/folklog/static/media/calendarX.b0e498916cea182d6ba781a5f32b4bb0.svg",
+    "static/media/firstaidkit.svg": "/Roshan-k/folklog/static/media/firstaidkit.7fea6fc81152b012f0e7e7b76cc813f4.svg",
+    "static/media/user.svg": "/Roshan-k/folklog/static/media/user.ede66fca27ba41fdb4af7e6919e5f5e9.svg",
+    "static/media/clock.svg": "/Roshan-k/folklog/static/media/clock.d8426eb11ebeb08d582fa927cbb7edc9.svg",
+    "static/media/down-arro.svg": "/Roshan-k/folklog/static/media/down-arro.9546ad042a5a7f5d466ab6cee8e2bc04.svg",
+    "main.5a07872e.css.map": "/Roshan-k/folklog/static/css/main.5a07872e.css.map",
+    "main.942aaa41.js.map": "/Roshan-k/folklog/static/js/main.942aaa41.js.map",
+    "453.8b723ec5.chunk.js.map": "/Roshan-k/folklog/static/js/453.8b723ec5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a07872e.css",
+    "static/js/main.942aaa41.js"
+  ]
+}
